@@ -18,5 +18,14 @@ export const mockContent: ContentItem[] = [
     flags: [],
     createdAt: '2025-01-02T14:30:00Z',
     authorId: 'user-2'
-  }
+  },
+    {
+    id: '3',
+    title: 'Normal post 2',
+    body: 'New Here, excited to join!',
+    status: 'pending',
+    flags: [],
+    createdAt: '2025-01-01T10:00:00Z',
+    authorId: 'user-3'
+  },
 ]
